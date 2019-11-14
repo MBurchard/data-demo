@@ -1,0 +1,43 @@
+HELP.md
+.gradle
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+gradle/
+gradlew
+gradlew.bat
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+node_modules/
+application-dev.yml
+application-dev-l.yml
+application-int.yml
+application-prod.yml
+config.json
+*.log
+*.lock
